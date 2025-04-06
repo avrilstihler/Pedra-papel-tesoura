@@ -31,7 +31,7 @@ A função `jogar()` é o coração do game e segue essa lógica:
 
 ## 💡 Exemplo de Gameplay
 
-| 👶 Verfifcação de Idade | ⚔️ Escolha de Jogada |
+| 👶 Verfifcação de Idade | ⚔️ Jogada do Player |
 |---|---|
 | ![Sua idade](images/idade.png) | ![Sua Jogada](images/jogada.png) |
 
