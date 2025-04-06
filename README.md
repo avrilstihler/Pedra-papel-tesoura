@@ -39,7 +39,7 @@ A função `jogar()` é o coração do game e segue essa lógica:
 
 | 🎲 Jogada da Jinx |🏆 Resultado Final
 |---|---|
-| ![Jogada da Jinx](images/batalha.png) | ![Resultado Final](images/resultado.png) |
+| ![Jogada da Jinx](images/jogadajinx.png) | ![Resultado Final](images/resultado.png) |
 
 ## 🛠️ Tecnologias Utilizadas
 
