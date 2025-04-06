@@ -2,13 +2,13 @@
 
 Um mini-jogo em JavaScript onde você é desafiado por ninguém menos que a insana e imprevisível **Jinx**! Prepare-se para uma batalha de Pedra, Papel e Tesoura — mas antes, você precisa provar que tem idade (e coragem) suficiente para jogar. 💣
 
-![Tela Incial]()
+![Tela Incial](images/tela.png)
 
 Desafie a Jinx e veja se você consegue vencê-la no **Pedra, Papel e Tesoura!**
 
 > _“Vai chorar ou vai tentar de novo?” – Jinx_ 🎯
 
-Clique [aqui]() para acessar o game.
+Clique [aqui](https://avrilstihler.github.io/Pedra-papel-tesoura/) para acessar o game.
 
 ## ⚙️ Como funciona
 
